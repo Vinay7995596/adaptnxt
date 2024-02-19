@@ -1,0 +1,13 @@
+ul {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.separate-pending {
+    color: blue;
+    border-bottom-color: 1px solid blue;
+}

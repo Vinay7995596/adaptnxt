@@ -1,6 +1,4 @@
-.App {
-  text-align: center;
-}
+
 
 .App-logo {
   height: 40vmin;
@@ -35,4 +33,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.total-container {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+}
+
+.app {
+  background-color: #DEDBDB;
 }

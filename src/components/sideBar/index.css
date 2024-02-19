@@ -1,0 +1,28 @@
+ul {
+    list-style: none;
+    padding: 0px;
+    padding-top: 10px;
+    margin: 10px;
+}
+
+.list-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 5px;
+    padding: 0px;
+}
+
+.list-container-total {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.side-bar-main-container {
+    background-color: #fff;
+    height: 100vh;
+    width: 200px;
+    border-top-right-radius: 20px;
+}

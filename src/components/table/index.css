@@ -1,0 +1,79 @@
+th{
+    background-color: #A9A9A9;
+    padding: 0px;
+}
+
+table {
+    background-color: #fff;
+}
+.order-number {
+    color: blue;
+    width: 150px;
+}
+
+.image-content-table {
+    height: 30px;
+    width: 30px;
+}
+
+.remaining-cells {
+    width: 100px;
+}
+.channel {
+    width: 100px;
+}
+
+tr {
+    padding: 0px;
+    margin: 0px;
+}
+
+td{
+    border-bottom: 1px solid green;
+    padding: 0px;
+    margin: 0px;
+}
+
+.pending-button {
+    color: green;
+    border: 1px solid green;
+    background-color: greenyellow;
+}
+
+.icon-with-button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.refresh-button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: blue;
+    border: 0px;
+    color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.customer-name-content {
+    width: 300px;
+    text-align: left;
+}
+
+.city-name {
+    width: 200px;
+}
+
+.button-container-small {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+.button-container {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+}

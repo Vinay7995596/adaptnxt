@@ -1,0 +1,16 @@
+.comapny-logo {
+    height: 80px;
+    width: 80px;
+}
+
+.container-of-nav-main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+
+.icons-container-main {
+    display: flex;
+    gap: 10px;
+}
